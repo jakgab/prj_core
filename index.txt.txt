@@ -2,4 +2,5 @@
 
 echo 'core elso'
 echo 'core 2.
+echo 'in copy modify by jakgab2
 ?>
