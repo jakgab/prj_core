@@ -1,5 +1,5 @@
 <?php>
 
 echo 'core elso'
-
+echo 'core 2.
 ?>
